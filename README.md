@@ -1,5 +1,7 @@
 # 🇩🇪 Deutschland
 
+<img src="resources/graph.png" width="100%">
+
 * Einwanderung
 	* Einbürgerung
 		* [Einbürgerung in Deutschland - BAMF](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung-node.html;jsessionid=791DC7FE6DCC3C88A41030D4902BFEB4.internet531)
