@@ -17,8 +17,6 @@
   * C2 – Annähernd muttersprachliche Kenntnisse
 
 * Kultur
-	* Bücher
-		* A1/A2
   * Fernsehsendungen
     * A1/A2
       * Türkisch für Anfänger
@@ -26,6 +24,14 @@
         * [IMDb](https://www.imdb.com/title/tt0469009/)
     * B1
     * B2/C1
+	* Bücher
+		* A1/A2
+  * Musik
+  * Filme
+  * Podcast
+  * YouTube
+  * Twitch
+
 
 * Wirstschaft
 	* Lohn
