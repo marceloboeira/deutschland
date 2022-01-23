@@ -17,14 +17,13 @@
   * C2 – Annähernd muttersprachliche Kenntnisse
 
 * Kultur
-	* Bcher
+	* Bücher
 		* A1/A2
-
   * Fernsehsendungen
     * A1/A2
       * Türkisch für Anfänger
-				* [Netflix](https://www.netflix.com/watch/80125201)
-				* [IMDb](https://www.imdb.com/title/tt0469009/)
+			  * [Netflix](https://www.netflix.com/watch/80125201)
+			  * [IMDb](https://www.imdb.com/title/tt0469009/)
     * B1
     * B2/C1
 
