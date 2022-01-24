@@ -21,6 +21,10 @@ graph TD
     Kt --> KtYoutube[Youtube]
     Kt --> KtTwitch[Twitch]
 
+  De --> Gsht[Gesundheit]
+
+  De --> Vrs[Versicherung]
+
   De --> Wrs[Wirtschaft]
     Wrs --> Wrsl[Lohn]
 			Wrsl --> Wrsls[Lohnsteuer]
@@ -34,6 +38,16 @@ graph TD
     Whng --> WhngKf[Kaufen]
       WhngKf --> WhngNk[Nebenkosten]
 
-  De --> Gsht[Gesundheit]
+  De --> Vk[Verkehr]
+    Vk --> VkA[Autos]
+      VkA --> VkAF[Führerschein]
+        VkAF --> VkAFU[Umschreibung]
+        VkAF --> VkAFP[Führerscheinprüfung]
+          VkAFP --> VkAFPV[Vorbereitung]
+          VkAFP --> VkAFPT[Theoretische Führerscheinprüfung]
+          VkAFP --> VkAFPP[Praktische Führerscheinprüfung]
 
-  De --> Vrs[Versicherung]
+      VkA --> VkAK[Kaufen]
+        VkAK --> VkAKF[Finanzierung]
+        VkAK --> VkAKV[Versicherung]
+        VkAK --> VkAKH[Hauptuntersuchung]
