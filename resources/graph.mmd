@@ -22,16 +22,20 @@ graph TD
     Kt --> KtTwitch[Twitch]
 
   De --> Gsht[Gesundheit]
+   Gsht --> VrsKvrs
 
   De --> Vrs[Versicherung]
+    Vrs --> VrsKvrs[Krankenversicherung]
+      VrsKvrs --> GKvrs[Gesetzliche]
+      VrsKvrs --> PKvrs[Privat]
 
   De --> Wrs[Wirtschaft]
     Wrs --> Wrsl[Lohn]
-			Wrsl --> Wrsls[Lohnsteuer]
-		Wrs --> WrsSp[Sparen]
-		Wrs --> WrsRn[Rente]
-			WrsRn --> WrsRnRu[Rürup]
-			WrsRn --> WrsRnRi[Riester]
+      Wrsl --> Wrsls[Lohnsteuer]
+    Wrs --> WrsSp[Sparen]
+    Wrs --> WrsRn[Rente]
+      WrsRn --> WrsRnRu[Rürup]
+      WrsRn --> WrsRnRi[Riester]
 
   De --> Whng[Wohnung]
     Whng --> WhngMt[Mieten]

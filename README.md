@@ -3,9 +3,9 @@
 <img src="resources/graph.png" width="100%">
 
 * Einwanderung
-	* Einbürgerung
-		* [Einbürgerung in Deutschland - BAMF](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung-node.html;jsessionid=791DC7FE6DCC3C88A41030D4902BFEB4.internet531)
-			* Einbürgerungstest
+  * Einbürgerung
+    * [Einbürgerung in Deutschland - BAMF](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung-node.html;jsessionid=791DC7FE6DCC3C88A41030D4902BFEB4.internet531)
+      * Einbürgerungstest
 
 * Sprache
   * [GER - Gemeinsamer Europäischer Referenzrahmen für Sprachen](https://www.europaeischer-referenzrahmen.de)
@@ -24,8 +24,8 @@
         * [IMDb](https://www.imdb.com/title/tt0469009/)
     * B1
     * B2/C1
-	* Bücher
-		* A1/A2
+  * Bücher
+    * A1/A2
     * B1
     * B2/C1
       * [Nullzeit - Juli Zeh](https://www.amazon.de/Nullzeit-Roman-Juli-Zeh/dp/3442745691/ref=asc_df_3442745691/)
@@ -36,23 +36,31 @@
   * Twitch
 
 * Gesundheit
+  * Krankenversicherung
+    * Sehen Sie sich die Rubrik "Versicherung > Krankenversicherung" an
 
 * Versicherung
+  * Krankenversicherung
+    * [Private oder Gesetzliche Krankenversicherung: Was lohnt sich eher?](https://www.youtube.com/watch?v=3jNJHsw30_s)
+    * [Private vs Gesetzliche Krankenversicherung](https://www.youtube.com/watch?v=4LdbbPm_31c)
 
 * Wirstschaft
-	* Lohn
-		* Lohnsteuer
-	* Sparen
-		* Festgeld
-		* Tagesgeld
-	* Rente
-		* Rürup
-		* Riester
+  * Lohn
+    * Beruf
+      * [Gehaltsreport 2021: Die bestbezahlten Berufe und Branchen in Deutschland!](https://www.youtube.com/watch?v=qggzwdO9k_o)
+    * Lohnsteuer
+  * Sparen
+    * Festgeld
+    * Tagesgeld
+  * Rente
+    * Rürup
+    * Riester
 
 * Wohnung
-	* Mieten
-	* Kaufen
-		* Nebenkosten
+  * Mieten
+  * Kaufen
+    * [Kaufen oder Mieten: Was lohnt sich eher?](https://www.youtube.com/watch?v=pEMudWHiXh0)
+    * Nebenkosten
 
 * Verkehr
   * Autos
