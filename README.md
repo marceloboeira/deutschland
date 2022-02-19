@@ -70,7 +70,8 @@
         * Theoretische Führerscheinprüfung
         * Praktische Führerscheinprüfung
       * Umschreibung
-
+    * Leasen
+      * [Auto Leasen oder Kaufen: Was ist besser?](https://www.youtube.com/watch?v=suSivGcUitA)
     * Kaufen
       * Hauptuntersuchung
         * [Ab wann zur Abgasuntersuchung mit Pkw, Motorrad oder Oldtimer?](https://www.bussgeldkatalog.org/abgasuntersuchung-ab-wann/)
