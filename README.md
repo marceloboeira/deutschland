@@ -48,14 +48,29 @@
   * Lohn
     * Beruf
       * [Gehaltsreport 2021: Die bestbezahlten Berufe und Branchen in Deutschland!](https://www.youtube.com/watch?v=qggzwdO9k_o)
+    * Schicht
+      * [Zu welcher Schicht gehörst Du?](https://www.youtube.com/watch?v=JzhnUWUigJQ)
     * Lohnsteuer
-  * Sparen
-    * Festgeld
-    * Tagesgeld
-  * Rente
-    * Rürup
-    * Riester
-
+  * Altersvorsorge
+    * Rente
+      * Rürup
+        * [Rürup-Rente: Unter welchen Bedingungen sie (keinen) Sinn mach](https://www.youtube.com/watch?v=q26XY1-rSaQ)
+        * [Rürup Rente: Für wen lohnt es sich? Vor- & Nachteile!](https://www.youtube.com/watch?v=ZCyOUvS3NJs)
+        * [Basisrente (Rürup) vs Riesterrente | Vor- und Nachteile](https://www.youtube.com/watch?v=ABwTofeDmRE)
+      * Riester
+        * [Riester-Rente einfach erklärt: Welche Anlage-Möglichkeiten gibt es?](https://www.youtube.com/watch?v=4Y2Be_DilrA)
+  * Investitionen
+    * [10.000€ in 10 Jahren - Aktien, ETF, Bitcoin, Gold, Tagesgeld, MSCI World](https://www.youtube.com/watch?v=sqysmr22gcc)
+    * Passiv
+      * [Tagesgeldkonto und Festgeld einfach erklärt!](https://www.youtube.com/watch?v=9EC1PffrXVI)
+      * Tagesgeld
+        * [Was ist ein Tagesgeldkonto?](https://www.youtube.com/watch?v=g60FwLgdqI4)
+      * Festgeld
+    * Aktive
+      * Aktien
+      * ETF
+      * Dividende
+        * [Kritik an der Dividendenstrategie?](https://www.youtube.com/watch?v=4ePuuLqn-oY)
 * Wohnung
   * Mieten
   * Kaufen
