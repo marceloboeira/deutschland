@@ -19,41 +19,17 @@
 * Kultur
   * Fernsehsendungen
     * A1/A2
-      * Türkisch für Anfänger
-        * [Netflix](https://www.netflix.com/watch/80125201)
-        * [IMDb](https://www.imdb.com/title/tt0469009/)
+      * Türkisch für Anfänger | [Netflix](https://www.netflix.com/watch/80125201) | [IMDb](https://www.imdb.com/title/tt0469009/)
     * B1
-      * Barbaren
-        * [Trailer](https://www.youtube.com/watch?v=uX_qzfJyeT0)
-        * [Netflix](https://www.netflix.com/title/81024039)
-        * [IMDb](https://www.imdb.com/title/tt9184986/)
-      * Dogs of Berlin
-        * [Trailer](https://www.youtube.com/watch?v=bk4yo3nWvqM)
-        * [Netflix](https://www.netflix.com/title/80189522)
-        * [IMDb](https://www.imdb.com/title/tt6839788/)
-      * Wir sind die Welle
-        * [Trailer](https://www.youtube.com/watch?v=ZBMUaSB2g8o)
-        * [Netflix](https://www.netflix.com/title/80218819)
-        * [IMDb](https://www.imdb.com/title/tt11053220/)
-      * Morgen hör ich auf
-        * [Trailer](https://www.youtube.com/watch?v=1WJDvTUZ5HU)
-        * [ZDF](https://www.zdf.de/serien/morgen-hoer-ich-auf)
-        * [IMDb](https://www.imdb.com/title/tt4368698/)
+      * Barbaren | [Trailer](https://www.youtube.com/watch?v=uX_qzfJyeT0) | [Netflix](https://www.netflix.com/title/81024039) | [IMDb](https://www.imdb.com/title/tt9184986/)
+      * Dogs of Berlin | [Trailer](https://www.youtube.com/watch?v=bk4yo3nWvqM) | [Netflix](https://www.netflix.com/title/80189522) | [IMDb](https://www.imdb.com/title/tt6839788/)
+      * Wir sind die Welle | [Trailer](https://www.youtube.com/watch?v=ZBMUaSB2g8o) | [Netflix](https://www.netflix.com/title/80218819) | [IMDb](https://www.imdb.com/title/tt11053220/)
+      * Morgen hör ich auf | [Trailer](https://www.youtube.com/watch?v=1WJDvTUZ5HU) | [ZDF](https://www.zdf.de/serien/morgen-hoer-ich-auf) | [IMDb](https://www.imdb.com/title/tt4368698/)
     * B2/C1+
-      * Kleo - Nach dem Fall der Berliner Mauer setzt eine abgesägte Spitzenagentin der Stasi ihre tödlichen Fertigkeiten ein, um herauszufinden, wer sie verraten hat und warum.
-        * [Netflix](https://www.netflix.com/de/title/81216677)
-        * [IMDb](https://www.imdb.com/title/tt15135104/)
-      * Tator -
-        * [ARD](https://www.ardmediathek.de/tatort?xtor=CS1-249-[g]-[tatort]-[aon-f]-[v2]&gclid=EAIaIQobChMIwPDu5Y24-gIVh47ICh1adwumEAAYASAAEgJBavD_BwE)
-        * [IMDb](https://www.imdb.com/title/tt0806910/)
-      * Criminal: Deutschland
-        * [Trailer](https://www.youtube.com/watch?v=OTKPV5z48ck)
-        * [Netflix](https://www.netflix.com/title/81020518)
-        * [IMDb](https://www.imdb.com/title/tt10986056/)
-      * Betonrausch - Rising High
-        * [Trailer](https://www.youtube.com/watch?v=3aY6_O1CWn0)
-        * [Netflix](https://www.netflix.com/title/81058432)
-        * [IMDb](https://www.imdb.com/title/tt9806336/)
+      * Kleo | [Netflix](https://www.netflix.com/de/title/81216677) | [IMDb](https://www.imdb.com/title/tt15135104/)
+      * Tatort | [ARD](https://www.ardmediathek.de/tatort?xtor=CS1-249-[g]-[tatort]-[aon-f]-[v2]&gclid=EAIaIQobChMIwPDu5Y24-gIVh47ICh1adwumEAAYASAAEgJBavD_BwE) | [IMDb](https://www.imdb.com/title/tt0806910/)
+      * Criminal: Deutschland | [Trailer](https://www.youtube.com/watch?v=OTKPV5z48ck) | [Netflix](https://www.netflix.com/title/81020518) | [IMDb](https://www.imdb.com/title/tt10986056/)
+      * Betonrausch - Rising High | [Trailer](https://www.youtube.com/watch?v=3aY6_O1CWn0) | [Netflix](https://www.netflix.com/title/81058432) | [IMDb](https://www.imdb.com/title/tt9806336/)
   * Bücher
     * A1/A2
     * B1
